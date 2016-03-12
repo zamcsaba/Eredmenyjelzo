@@ -1,6 +1,6 @@
-﻿namespace Eredmenyjelzo.Client
+﻿namespace Eredmenyjelzo.Client.Forms
 {
-    partial class frmMenu
+    partial class frmFociVezerlo
     {
         /// <summary>
         /// Required designer variable.
@@ -28,21 +28,11 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.SuspendLayout();
-            // 
-            // frmMenu
-            // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(338, 138);
-            this.Name = "frmMenu";
-            this.Text = "Főmenü";
-            this.Load += new System.EventHandler(this.frmMenu_Load);
-            this.ResumeLayout(false);
-
+            this.Text = "frmFociVezerlo";
         }
 
         #endregion
     }
 }
-

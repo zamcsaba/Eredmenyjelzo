@@ -8,18 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Eredmenyjelzo.Client
+namespace Eredmenyjelzo.Client.Forms
 {
-    public partial class frmMenu : Form
+    public partial class frmEgyebVezerlo : Form
     {
-        public frmMenu()
+        public frmEgyebVezerlo()
         {
             InitializeComponent();
-        }
-
-        private void frmMenu_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }

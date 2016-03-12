@@ -1,1 +1,9 @@
 c:\users\csaba\documents\visual studio 2015\Projects\Eredmenyjelzo\Eredmenyjelzo.Client\bin\Debug\Eredmenyjelzo.Client.exe.config
+C:\Users\Csaba\documents\visual studio 2015\Projects\Eredmenyjelzo\Eredmenyjelzo.Client\bin\Debug\Eredmenyjelzo.Client.exe
+C:\Users\Csaba\documents\visual studio 2015\Projects\Eredmenyjelzo\Eredmenyjelzo.Client\bin\Debug\Eredmenyjelzo.Client.pdb
+C:\Users\Csaba\documents\visual studio 2015\Projects\Eredmenyjelzo\Eredmenyjelzo.Client\obj\Debug\Eredmenyjelzo.Client.csprojResolveAssemblyReference.cache
+C:\Users\Csaba\documents\visual studio 2015\Projects\Eredmenyjelzo\Eredmenyjelzo.Client\obj\Debug\Eredmenyjelzo.Client.Properties.Resources.resources
+C:\Users\Csaba\documents\visual studio 2015\Projects\Eredmenyjelzo\Eredmenyjelzo.Client\obj\Debug\Eredmenyjelzo.Client.csproj.GenerateResource.Cache
+C:\Users\Csaba\documents\visual studio 2015\Projects\Eredmenyjelzo\Eredmenyjelzo.Client\obj\Debug\Eredmenyjelzo.Client.exe
+C:\Users\Csaba\documents\visual studio 2015\Projects\Eredmenyjelzo\Eredmenyjelzo.Client\obj\Debug\Eredmenyjelzo.Client.pdb
+C:\Users\Csaba\documents\visual studio 2015\Projects\Eredmenyjelzo\Eredmenyjelzo.Client\obj\Debug\Eredmenyjelzo.Client.Forms.frmMenu.resources
